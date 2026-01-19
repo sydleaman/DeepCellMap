@@ -1,5 +1,7 @@
 # DeepCellMap
 
+This is Sydney's Local copy of DeepCellMap. 
+
 Algorithms associated with the submission of the paper titled
 \"Unraveling Microglial Spatial Organization in the Developing Human Brain with DeepCellMap\" to Nature
 Communications. 
